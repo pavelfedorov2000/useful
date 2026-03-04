@@ -1,0 +1,1 @@
+export const BODY_HIDDEN_CLASSNAME = 'body--hidden';
